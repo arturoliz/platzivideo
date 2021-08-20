@@ -2,3 +2,5 @@
 *.jpg
 *.scss
 *.pug
+*.json
+node_modules
